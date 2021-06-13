@@ -7,7 +7,7 @@ import org.hibernate.Transaction;
 import org.springframework.stereotype.Component;
 
 import com.company.enroller.model.Meeting;
-
+import com.company.enroller.model.Participant;
 @Component("meetingService")
 public class MeetingService {
 
